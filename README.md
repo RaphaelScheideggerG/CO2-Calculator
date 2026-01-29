@@ -19,11 +19,11 @@ Pequena aplicação React para estimar emissões de CO₂ por deslocamento e com
    npm run dev
 
 ## Capturas de tela
-Interface com bicicleta (exemplo):
-![Interface - Bike](./screenshots/screenshot1.png)
-
 Interface com helicóptero (exemplo):
-![Interface - Helicopter](./screenshots/screenshot2.png)
+![Interface - Helicopter](./screenshots/screenshot1.png)
+
+Interface com Bicicleta (exemplo):
+![Interface - Bike](./screenshots/screenshot2.png)
 
 
 ## 🎓 Contexto do Projeto
