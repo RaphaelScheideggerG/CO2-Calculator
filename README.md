@@ -25,7 +25,6 @@ Interface com bicicleta (exemplo):
 Interface com helicóptero (exemplo):
 ![Interface - Helicopter](./screenshots/screenshot2.png)
 
-> Observação: coloque as imagens na pasta `./screenshots/` com os nomes acima.
 
 ## 🎓 Contexto do Projeto
 
